@@ -45,7 +45,7 @@ class Invoice {}
 ```
 exists.
 
-#### Objects have type
+#### Objects have state
 
 state
 : the combination of the values for all the attributes of an object
@@ -67,3 +67,47 @@ implementation
 
 
 ## Understanding the Life Cycle of an Object
+
+1. an object's class must be **loaded**. The runtime locates the `.class` file and reads it into memory. It then looks for **static initializers**.
+2. an object is created when you use the `new` keyword. 
+3. the object lives its life.
+4. the object is **garbage collected**
+
+## Working with related classes
+
+>The real power of oop lies in its ability to create classes that describe closely related objects.
+
+## Inheritance
+
+lets you use one class as the basis for another.
+
+## Interfaces
+
+- a set of methods and fields that a class must provide to implement the interface.
+
+- interfaces are closely related to inheritance except:
+  - interface doesn't provide code, it is just a set of methods and field signatures
+  - a class can implement as many interfaces as needed.
+
+## Designing a program with objects
+
+- an oop program is a group of objects that work together to get a job done.
+- most important part is designing the classes used to create objects.
+  
+>The basic idea is to break a large problem into a set of classes, each of which is manageable in size and complexity.
+
+steps:
+
+1. decide what classes the app requires
+2. what are the public interfaces of those classes
+
+- a common approach in oop design is to divide the app into **layers** or **teirs** that provide distinct functions.
+
+- presentation: objects in this layer handle interaction with users.
+- logic: core objects of the application. business entities (i.e. customers, products, orders) this layer's aka **business rules layer** it is responsible for carrying out the rules that govern the application.
+- database: objects in this layer interact with data storage.
+
+## Diagramming class4es with UML
+
+- **class diagrams**
+- UML(unified modeling language)

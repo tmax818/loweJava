@@ -1,0 +1,1 @@
+# [chapter 6: using the `Object` and `Class` classes](https://read.amazon.com/?asin=B08FYY82SD&ref_=kwl_kr_iv_rec_1)
