@@ -50,25 +50,25 @@
 
 # [Book 6: Algorithms](./book6/README.md)
 
-## Chapter 1: Introducing Algorithms 
-## Chapter 2: Using Recursion 
-## Chapter 3: Sorting 
-## Chapter 4: Searching 
+## [Chapter 1: Introducing Algorithms](./book6/ch1/README.md)
+## [Chapter 2: Using Recursion](./book6/ch2/README.md)
+## [Chapter 3: Sorting](./book6/ch3/README.md)
+## [Chapter 4: Searching](./book6/ch4/README.md)
 
 # [Book 7: Programming Techniques](./book7/README.md)
 
-## Chapter 1: Programming Threads 
-## Chapter 2: Using Functional Programming and Lambda Expressions 
-## Chapter 3: Consuming Web Services with HttpClient 
+## [Chapter 1: Programming Threads](./book7/ch1/README.md)
+## [Chapter 2: Using Functional Programming and Lambda Expressions](./book7/ch2/README.md)
+## [Chapter 3: Consuming Web Services with HttpClient](./book7/ch3/README.md)
 
 # [Book 8: JavaF](./book8/README.md)
 
-## Chapter 1: Hello, JavaFX! 
-## Chapter 2: Handling Events 
-## Chapter 3: Setting the Stage and Scene Layout 
-## Chapter 4: Using Layout Panes to Arrange Your Scenes 
-## Chapter 5: Getting Input from the User 
-## Chapter 6: Choosing from a List 
+## [Chapter 1: Hello, JavaFX!](./book8/ch1/README.md)
+## [Chapter 2: Handling Events](./book8/ch2/README.md)
+## [Chapter 3: Setting the Stage and Scene Layout](./book8/ch3/README.md)
+## [Chapter 4: Using Layout Panes to Arrange Your Scenes](./book8/ch4/README.md)
+## [Chapter 5: Getting Input from the User](./book8/ch5/README.md)
+## [Chapter 6: Choosing from a List](./book8/ch6/README.md)
 
 
 
