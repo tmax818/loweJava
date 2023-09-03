@@ -1,4 +1,4 @@
-# Welcome to Java
+# Chapter 1: Welcome to Java 7
 
 ## What is Java, and why is it so great?
 

@@ -23,30 +23,30 @@
 
 # [Book 3: Object-Oriented Programming](./book3/README.md)
 
-## Chapter 1: Understanding Object-Oriented Programming 
-## Chapter 2: Making Your Own Classes 
-## Chapter 3: Working with Statics 
-## Chapter 4: Using Subclasses and Inheritance 
-## Chapter 5: Using Abstract Classes and Interfaces 
-## Chapter 6: Using the Object and Class Classes 
-## Chapter 7: Using Inner Classes and Anonymous Classes 
-## Chapter 8: Working with Packages and the Java Module System 
+## [Chapter 1: Understanding Object-Oriented Programming](./book3/ch1/README.md)
+## [Chapter 2: Making Your Own Classes](./book3/ch2/README.md)
+## [Chapter 3: Working with Statics](./book3/ch3/README.md)
+## [Chapter 4: Using Subclasses and Inheritance](./book3/ch4/README.md)
+## [Chapter 5: Using Abstract Classes and Interfaces](./book3/ch5/README.md)
+## [Chapter 6: Using the Object and Class Classes](./book3/ch6/README.md)
+## [Chapter 7: Using Inner Classes and Anonymous Classes](./book3/ch7/README.md)
+## [Chapter 8: Working with Packages and the Java Module System](./book3/ch8/README.md)
 
 # [Book 4: Strings and Other Data Types](./book4/README.md)
 
-## Chapter 1: Working with Strings 
-## Chapter 2: Using Regular Expressions 
-## Chapter 3: Working with Dates and Times 
-## Chapter 4: Using the BigDecimal Class 
+## [Chapter 1: Working with Strings](./book4/ch1/README.md)
+## [Chapter 2: Using Regular Expressions](./book4/ch2/README.md)
+## [Chapter 3: Working with Dates and Times](./book4/ch3/README.md)
+## [Chapter 4: Using the BigDecimal Class](./book4/ch4/README.md)
 
 # [Book 5: Data Structures](./book5/README.md)
 
-## Chapter 1: Introducing Data Structures 
-## Chapter 2: Using Arrays 
-## Chapter 3: Using the ArrayList Class 
-## Chapter 4: Using the LinkedList Class 
-## Chapter 5: Creating Generic Collection Classes 
-## Chapter 6: Using Maps and Trees 
+## [Chapter 1: Introducing Data Structures](./book5/ch1/README.md)
+## [Chapter 2: Using Arrays](./book5/ch2/README.md)
+## [Chapter 3: Using the ArrayList Class](./book5/ch3/README.md)
+## [Chapter 4: Using the LinkedList Class](./book5/ch4/README.md)
+## [Chapter 5: Creating Generic Collection Classes](./book5/ch5/README.md)
+## [Chapter 6: Using Maps and Trees](./book5/ch6/README.md)
 
 # [Book 6: Algorithms](./book6/README.md)
 
