@@ -1,0 +1,10 @@
+# [Book 2: Programming Basics](./book2/README.md) 
+
+## [Chapter 1: Java Programming Basics](./book2/ch1/README.md)
+## [Chapter 2: Working with Variables and Data Types](./book2/ch2/README.md)
+## [Chapter 3: Working with Numbers and Expressions](./book2/ch3/README.md)
+## [Chapter 4: Making Choices ](./book2/ch4/README.md)
+## [Chapter 5: Going Around in Circles (or, Using Loops) ](./book2/ch5/README.md)
+## [Chapter 6: Pulling a Switcheroo ](./book2/ch6/README.md)
+## [Chapter 7: Adding Some Methods to Your Madness ](./book2/ch7/README.md)
+## [Chapter 8: Handling Exceptions ](./book2/ch8/README.md)
