@@ -2,7 +2,17 @@
 
 ## Looking at the venerable `Hello, World!` program
 
-[listing 1-1](../../code/Listing%201-1/HelloApp.java)
+[listing 1-1](../code/Listing%201-1/HelloApp.java)
+
+```java
+public class HelloApp
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello, World!");
+    }
+}
+```
 
 ## Dealing with keywords
 

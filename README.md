@@ -70,6 +70,10 @@
 ## [Chapter 5: Getting Input from the User](./book8/ch5/README.md)
 ## [Chapter 6: Choosing from a List](./book8/ch6/README.md)
 
+# [Patterns](./patterns/README.md)
+
+## [The Singleton Pattern](./patterns/singleton/README.md)
+
 
 
 [downloads]: https://www.wiley.com/en-us/Java+All+in+One+For+Dummies,+7th+Edition-p-9781119986645
