@@ -61,7 +61,7 @@
 ## [Chapter 2: Using Functional Programming and Lambda Expressions](./book7/ch2/README.md)
 ## [Chapter 3: Consuming Web Services with HttpClient](./book7/ch3/README.md)
 
-# [Book 8: JavaF](./book8/README.md)
+# [Book 8: JavaFX](./book8/README.md)
 
 ## [Chapter 1: Hello, JavaFX!](./book8/ch1/README.md)
 ## [Chapter 2: Handling Events](./book8/ch2/README.md)

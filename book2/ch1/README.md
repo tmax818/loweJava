@@ -1,6 +1,6 @@
 # Chapter 1: Java Programming Basics
 
-## Looking at the venerable `Hello, World!` program
+## Looking at the venerable 'Hello, World!' program
 
 [listing 1-1](../code/Listing%201-1/HelloApp.java)
 
@@ -51,6 +51,8 @@ name = "The answer";
 
 ## Working with [block]s
 
+- a [block] itself is a type of statement
+
 
 
 ## Creating [identifier]s
@@ -63,13 +65,17 @@ name = "The answer";
 
 ## Crafting [comment]s
 
-### end-of-line
-### traditional
-### JavaDoc
+### end-of-line comments
+### traditional comments
+### JavaDoc comments
+
+- see [book 3, chapter 8](../../book3/ch8/README.md)
 
 ## Introducing object-oriented-programming
 
 ## Importing Java API classes
+
+- Java organizes classes into *packages*
 
 
 [behavior]: actions that an object can perform
