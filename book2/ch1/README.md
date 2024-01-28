@@ -45,8 +45,6 @@ name = "The answer";
     - performs calculations or other operations
 
 
-
-
 ### white space
 
 ## Working with [block]s
